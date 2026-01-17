@@ -47,25 +47,26 @@ band-generator/
 
 Install the required dependencies:
 
-```bash
+```
 npm install
+```
 ▶️ Running the Application
 
 Start the server:
-
+```
 node index.js
-
+```
 
 Or run using nodemon for development:
-
+```
 nodemon index.js
-
+```
 🌐 Open in Browser
 
 After starting the server, open:
-
+```
 http://localhost:3000
-
+```
 🧪 Usage
 
 Open the home page.
